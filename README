@@ -1,0 +1,16 @@
+Common Array Methods:
+
+.push() => add items to the end
+.pop() => remove last item
+.shift() => remove first item
+.unshift() => add item to beginning
+.splice() => create substring of array
+.slice() => create substring of array
+.length() => length of array as an integer (very useful with for loops)
+
+let arr = ["Elliott", "likes", "JavaScript", "Arrays!"]
+
+arr[0] = "Elliott" && arr[3] = "Arrays!"
+
+
+
