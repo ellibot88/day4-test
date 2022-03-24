@@ -12,5 +12,5 @@ let arr = ["Elliott", "likes", "JavaScript", "Arrays!"]
 
 arr[0] = "Elliott" && arr[3] = "Arrays!"
 
-
+.length is a property of an array, not a function (use arr[arr.length-1] to use in for loops)
 

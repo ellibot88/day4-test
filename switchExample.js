@@ -23,3 +23,22 @@ switch (bi) {
   default:
     console.log("No hay");
 }
+
+let fullName = "McKay";
+
+switch (fullName) {
+  case "McKay":
+    console.log(`Your Name is ${fullName}`);
+    break;
+
+  case "Elliott":
+    console.log(`Your fullName is ${fullName}`);
+    break;
+
+  case "Jacob":
+    console.log(`Your fullName is ${fullName}`);
+    break;
+
+  default:
+    console.log("You aren't in our class!");
+}
